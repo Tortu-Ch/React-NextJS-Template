@@ -1,0 +1,7 @@
+node_modules
+.next
+yarn-error.log
+yarn.lock
+out
+.DS_Store
+desktop.ini
